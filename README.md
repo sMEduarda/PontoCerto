@@ -75,7 +75,7 @@ PontoCerto/
 ## 1. Clone o repositório
 
 bash
-git clone https://github.com/sMEduarda/API_PontoCerto.git
+git clone https://github.com/sMEduarda/PontoCerto.git
 
 Entre na pasta do projeto.
 
